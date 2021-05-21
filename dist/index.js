@@ -1,9 +1,9 @@
-
-
 // eslint-disable-next-line no-undef
 var _uuid = _interopRequireDefault(require("uuid"));
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+function _interopRequireDefault(obj) {
+  return obj && obj.__esModule ? obj : { default: obj };
+}
 
 var sum = function sum(number1, number2) {
   return number1 + number2;
